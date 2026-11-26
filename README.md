@@ -17,20 +17,17 @@ Cada estudiante deberá:
 
 ## 📁 Estructura del repositorio
 
-
+```
 PullRequestEntornos1DAW-2026-2027/
 
 ├── listado/
-
 │   ├── listado.txt
-
 │   └── (tu_fichero).txt
-
 └── ejercicios/
-
 └── (tu_fichero).cs
 
 ---
+```
 
 ## 🧾 Parte 1: Tu ficha de alumno/a
 
